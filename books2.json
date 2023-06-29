@@ -1,0 +1,310 @@
+[
+     {
+          "id": 1,
+          "title": "The Great Gatsby",
+          "author": "F. Scott Fitzgerald",
+          "publisher": "Charles Scribner's Sons",
+          "publication_date": "1925-04-10",
+          "isbn": "978-0-7432-7356-5",
+          "price": 10.99,
+          "genre": [
+               "Drama"
+          ],
+          "summary": "The story of Jay Gatsby and his ill-fated love for Daisy Buchanan, set against the backdrop of the roaring twenties in America.",
+          "quantity": 10
+     },
+     {
+          "id": 2,
+          "title": "To Kill a Mockingbird",
+          "author": "Harper Lee",
+          "publisher": "J. B. Lippincott & Co.",
+          "publication_date": "1960-07-11",
+          "isbn": "978-0-06-112008-4",
+          "price": 12.99,
+          "genre": [
+               "Drama"
+          ],
+          "summary": "The story of Scout Finch and her family, who live in a small town in Alabama during the Great Depression. Scout's father, a lawyer, defends a black man accused of rape, and the trial becomes a major event in the town.",
+          "quantity": 8
+     },
+     {
+          "id": 3,
+          "title": "1984",
+          "author": "George Orwell",
+          "publisher": "Secker & Warburg",
+          "publication_date": "1949-06-08",
+          "isbn": "978-0-452-28423-4",
+          "price": 9.99,
+          "genre": [
+               "Sci-Fi"
+          ],
+          "summary": "In a dystopian future, a man named Winston Smith rebels against the oppressive regime of the Party and falls in love with a fellow rebel, only to be brutally punished for his actions.",
+          "quantity": 12
+     },
+     {
+          "id": 4,
+          "title": "Pride and Prejudice",
+          "author": "Jane Austen",
+          "publisher": "T. Egerton, Whitehall",
+          "publication_date": "1813-01-28",
+          "isbn": "978-1-84603-419-9",
+          "price": 8.99,
+          "genre": [
+               "Drama"
+          ],
+          "summary": "The story of Elizabeth Bennet and her relationships with various suitors, including the wealthy and proud Mr. Darcy.",
+          "quantity": 6
+     },
+     {
+          "id": 5,
+          "title": "The Catcher in the Rye",
+          "author": "J. D. Salinger",
+          "publisher": "Little, Brown and Company",
+          "publication_date": "1951-07-16",
+          "isbn": "978-0-316-76948-8",
+          "price": 7.99,
+          "genre": [
+               "Drama"
+          ],
+          "summary": "The story of Holden Caulfield, a young man who has been expelled from prep school and is struggling to find his place in the world.",
+          "quantity": 15
+     },
+     {
+          "id": 6,
+          "title": "Animal Farm",
+          "author": "George Orwell",
+          "publisher": "Secker and Warburg",
+          "publication_date": "1945-08-17",
+          "isbn": "978-0-14-103613-7",
+          "price": 6.99,
+          "genre": [
+               "Drama"
+          ],
+          "summary": "A political allegory that tells the story of a group of farm animals who rebel against their human farmer and try to create a society where the animals can be equal and free.",
+          "quantity": 18
+     },
+     {
+          "id": 7,
+          "title": "Lord of the Flies",
+          "author": "William Golding",
+          "publisher": "Faber and Faber",
+          "publication_date": "1954-09-17",
+          "isbn": "978-0-571-24306-3",
+          "price": 9.99,
+          "genre": [
+               "Adventure"
+          ],
+          "summary": "The story of a group of boys who are stranded on an uninhabited island and attempt to govern themselves, but their efforts ultimately descend into violence and chaos.",
+          "quantity": 5
+     },
+     {
+          "id": 8,
+          "title": "Brave New World",
+          "author": "Aldous Huxley",
+          "publisher": "Chatto & Windus",
+          "publication_date": "1932-06-20",
+          "isbn": "978-0-06-085052-4",
+          "price": 8.99,
+          "genre": [
+               "Sci-Fi"
+          ],
+          "summary": "A dystopian novel set in a future society where people are genetically engineered and conditioned to be content with their assigned roles in life.",
+          "quantity": 3
+     },
+     {
+          "id": 9,
+          "title": "Frankenstein",
+          "author": "Mary Shelley",
+          "publisher": "Lackington, Hughes, Harding, Mavor, & Jones",
+          "publication_date": "1818-01-01",
+          "isbn": "978-0-06-284716-6",
+          "price": 11.99,
+          "genre": [
+               "Horror"
+          ],
+          "summary": "The story of Victor Frankenstein, a young scientist who creates a monster from dead body parts and is horrified by what he has done.",
+          "quantity": 20
+     },
+     {
+          "id": 10,
+          "title": "Dracula",
+          "author": "Bram Stoker",
+          "publisher": "Archibald Constable and Company",
+          "publication_date": "1897-05-26",
+          "isbn": "978-1-61592-134-0",
+          "price": 13.99,
+          "genre": [
+               "Horror"
+          ],
+          "summary": "The story of Count Dracula, a vampire who seeks to spread his curse to others, and the group of people who band together to stop him.",
+          "quantity": 14
+     },
+     {
+          "id": 11,
+          "title": "The Shining",
+          "author": "Stephen King",
+          "publisher": "Doubleday",
+          "publication_date": "1977-01-28",
+          "isbn": "978-0-385-12167-5",
+          "price": 12.99,
+          "genre": [
+               "Horror"
+          ],
+          "summary": "The story of Jack Torrance, a struggling writer who takes a job as the winter caretaker of the isolated Overlook Hotel, and his descent into madness.",
+          "quantity": 9
+     },
+     {
+          "id": 12,
+          "title": "The Stand",
+          "author": "Stephen King",
+          "publisher": "Doubleday",
+          "publication_date": "1978-09-01",
+          "isbn": "978-0-385-12168-2",
+          "price": 14.99,
+          "genre": [
+               "Horror"
+          ],
+          "summary": "The story of a superflu virus that wipes out most of the world's population, and the battle between the forces of good and evil that takes place in the aftermath.",
+          "quantity": 11
+     },
+     {
+          "id": 13,
+          "title": "The Da Vinci Code",
+          "author": "Dan Brown",
+          "publisher": "Doubleday",
+          "publication_date": "2003-03-18",
+          "isbn": "978-0-385-50420-1",
+          "price": 10.99,
+          "genre": [
+               "Thriller"
+          ],
+          "summary": "The story of Robert Langdon, a symbologist who becomes involved in a conspiracy involving the Catholic Church and the search for the Holy Grail.",
+          "quantity": 16
+     },
+     {
+          "id": 14,
+          "title": "Angels & Demons",
+          "author": "Dan Brown",
+          "publisher": "Pocket Books",
+          "publication_date": "2000-05-01",
+          "isbn": "978-0-671-02735-3",
+          "price": 8.99,
+          "genre": [
+               "Thriller"
+          ],
+          "summary": "The story of Robert Langdon's investigation into the Illuminati, a secret society that is trying to destroy the Catholic Church.",
+          "quantity": 7
+     },
+     {
+          "id": 15,
+          "title": "The Girl with the Dragon Tattoo",
+          "author": "Stieg Larsson",
+          "publisher": "Norstedts Förlag",
+          "publication_date": "2005-08-01",
+          "isbn": "978-0-307-47484-7",
+          "price": 11.99,
+          "genre": [
+               "Mystery"
+          ],
+          "summary": "The story of journalist Mikael Blomkvist and hacker Lisbeth Salander as they investigate a decades-old disappearance and uncover dark secrets about a wealthy family.",
+          "quantity": 13
+     },
+     {
+          "id": 16,
+          "title": "Gone Girl",
+          "author": "Gillian Flynn",
+          "publisher": "Crown Publishing Group",
+          "publication_date": "2012-06-05",
+          "isbn": "978-0-307-58836-4",
+          "price": 9.99,
+          "genre": [
+               "Thriller"
+          ],
+          "summary": "The story of Nick and Amy Dunne, a couple whose marriage is falling apart, and the mysterious disappearance of Amy on their fifth wedding anniversary.",
+          "quantity": 8
+     },
+     {
+          "id": 17,
+          "title": "The Hound of the Baskervilles",
+          "author": "Arthur Conan Doyle",
+          "publisher": "George Newnes Ltd.",
+          "publication_date": "1902-04-25",
+          "isbn": "978-0-7538-2635-5",
+          "price": 7.99,
+          "genre": [
+               "Mystery"
+          ],
+          "summary": "The story of Sherlock Holmes and Dr. Watson's investigation into the legend of a cursed hound that is said to haunt the Baskerville family.",
+          "quantity": 6
+     },
+     {
+          "id": 18,
+          "title": "The Adventures of Sherlock Holmes",
+          "author": "Arthur Conan Doyle",
+          "publisher": "George Newnes Ltd.",
+          "publication_date": "1892-10-14",
+          "isbn": "978-1-9998317-5-5",
+          "price": 8.99,
+          "genre": [
+               "Mystery"
+          ],
+          "summary": "A collection of twelve short stories featuring Sherlock Holmes and Dr. Watson, including 'A Scandal in Bohemia' and 'The Adventure of the Speckled Band.'",
+          "quantity": 10
+     },
+     {
+          "id": 19,
+          "title": "Murder on the Orient Express",
+          "author": "Agatha Christie",
+          "publisher": "Collins Crime Club",
+          "publication_date": "1934-01-01",
+          "isbn": "978-0-00-819657-2",
+          "price": 10.99,
+          "genre": [
+               "Mystery"
+          ],
+          "summary": "The story of detective Hercule Poirot's investigation into the murder of a wealthy American on the luxurious Orient Express train.",
+          "quantity": 4
+     },
+     {
+          "id": 20,
+          "title": "The Complete Adventures of Tintin",
+          "author": "Hergé",
+          "publisher": "Casterman",
+          "publication_date": "1929-01-10",
+          "isbn": "978-1-4050-7203-1",
+          "price": 19.99,
+          "genre": [
+               "Adventure"
+          ],
+          "summary": "A collection of all 24 Tintin comic books, following the adventures of the young Belgian reporter and his faithful dog Snowy as they travel the world and solve mysteries.",
+          "quantity": 22
+     },
+     {
+          "id": 21,
+          "title": "The Hobbit",
+          "author": "J.R.R. Tolkien",
+          "publisher": "Allen & Unwin",
+          "publication_date": "1937-09-21",
+          "isbn": "978-0-618-00221-9",
+          "price": 9.99,
+          "genre": [
+               "Fantasy"
+          ],
+          "summary": "The story of hobbit Bilbo Baggins as he embarks on a quest to reclaim the lost treasure of the dwarves from the dragon Smaug.",
+          "quantity": 5
+     },
+     {
+          "id": 22,
+          "title": "The Lord of the Rings",
+          "author": "J.R.R. Tolkien",
+          "publisher": "Allen & Unwin",
+          "publication_date": "1954-07-29",
+          "isbn": "978-0-618-05702-6",
+          "price": 29.99,
+          "genre": [
+               "Fantasy"
+          ],
+          "summary": "The story of hobbit Frodo Baggins as he sets out on a perilous journey to destroy the One Ring and save Middle-earth from the evil Sauron.",
+          "quantity": 8
+     }
+]
